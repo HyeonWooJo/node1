@@ -2,7 +2,7 @@
 
 ## 가상환경
 
-### 1 Nodeenv 설치
+### 1. Nodeenv 설치
 ```
 sudo pip install nodeenv
 ```
