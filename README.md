@@ -2,12 +2,7 @@
 
 ## 가상환경
 
-### 1-1. Nodeenv 설치(Mac) 
-```
-sudo easy_install nodeenv
-```
-
-### 1-2. Nodeenv 설치(그외) 
+### 1 Nodeenv 설치
 ```
 sudo pip install nodeenv
 ```
