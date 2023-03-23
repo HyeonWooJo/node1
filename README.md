@@ -14,7 +14,7 @@ nodeenv env
 
 ### 3. 활성화
 ```
-. env/bin/actiavte
+. env/bin/activate
 ```
 
 ### 4. 비활성화
